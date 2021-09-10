@@ -3,3 +3,14 @@
   --secondary-color: #f5f2fe;
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+h1 {
+  font-size: 96px;
+}
+
+h2 {
+  color: var(--primary-color);
+  font-size: 48px;
+}
